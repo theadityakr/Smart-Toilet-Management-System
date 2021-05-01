@@ -1,3 +1,12 @@
+![Screenshot (54)](https://user-images.githubusercontent.com/59906496/116796210-7830af80-aaf8-11eb-8313-238ccf247eac.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/59906496/116796215-7c5ccd00-aaf8-11eb-92c8-f2aeaca9fe77.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/59906496/116796223-81218100-aaf8-11eb-9ea5-6bfc1534c547.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/59906496/116796226-841c7180-aaf8-11eb-958d-22eed4506235.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/59906496/116796232-8979bc00-aaf8-11eb-848b-6ef6087b4e47.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/59906496/116796238-8da5d980-aaf8-11eb-9fcc-126fe08b7dc5.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/59906496/116796239-8ed70680-aaf8-11eb-860e-9639fd92693f.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/59906496/116796240-90a0ca00-aaf8-11eb-8401-fca5c28768ca.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/59906496/116796241-926a8d80-aaf8-11eb-8078-c9a6caff9dfe.png)
 # Smart-Toilet-Management-System
 Object Oriented Programming MINI PROJECT
 
