@@ -1,8 +1,8 @@
 # Smart-Toilet-Management-System
 Object Oriented Programming MINI PROJECT
-============================================
+
 Instructions for schema and table generation
-============================================
+
 
 -> 	For schema generation and table, there is no extra effort needed for execution 
 	of any type of scripts.Because We have added that in the code itself, 
@@ -19,9 +19,9 @@ Instructions for schema and table generation
 		■	TL01M …… TL24M
 
 
-====================================================
+
 Instructions for execution and specific requirements
-====================================================
+
 
 -> 	The folder named 'ToiletManagement' is the project folder.
 
@@ -39,18 +39,17 @@ ABOVE IS NOT NECESSARY BUT FOR BETTER USAGE OF THE PROJECT PLEASE COMPLY .
 
 ->	While registration please enter 'A VALID EMAIL ID'.
 
-===================
+
 SYSTEM REQUIREMENTS
-=================== 
+
 
 * Operating System: Any 
 * jdk latest version 
 * Proper internet connection .
 * Email account of user ( Not a system requirement , but still ) .
 
-===========================================================
 Guide to use the Smart Toilet Management System project
-===========================================================
+
 
 ->	Open the jar file using 'java openjdk platform binary' to run the jar file.
 
@@ -93,9 +92,9 @@ Guide to use the Smart Toilet Management System project
 
 ->      After Account Deletion You will be Directed to THE MAIN PAGE .
 
-========
+
 FEATURES
-======== 
+
 
 * Registration of user 
 * Updation of user details
@@ -109,9 +108,9 @@ FEATURES
 * Display log of Sensor Values of all the Toilets for Cleaning and Maintenance
 * Changing of Threshold NTU and MQ2 Values as per requirement .
  
-=================
+
 DEVELOPMENT TOOLS
-=================
+
 
 * Java GUI Frameworks such as Swing & AWT API.
 * Java Derby Database 
